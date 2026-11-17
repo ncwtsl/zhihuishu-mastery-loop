@@ -1,9 +1,17 @@
 __pycache__/
 *.pyc
 .bak/
-data/dom_mastery.json
-data/state.json
-data/*.log
-data/results/
-nohup.out
+
+# 运行期数据：题库含答案，永不入库（另见 data/README.md）
 data/answers.json
+data/*.json
+data/*.log
+data/*.md
+data/results/
+data/.fake/
+nohup.out
+!data/README.md
+
+# 本地凭证 / 发布脚本留下的痕迹
+.gh_token
+.login*.log
