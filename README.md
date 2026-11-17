@@ -6,7 +6,7 @@
 - 用法与原理：[SKILL.md](SKILL.md)
 - 踩过的坑（改代码前必读）：[reference/GOTCHAS.md](reference/GOTCHAS.md)
 - 脚本：`scripts/`
-- 题库种子（205 条）：`data/answers.json`
+- 题库：`data/answers.json`，运行时自动累积（不入库，见 [data/README.md](data/README.md)）
 
 ## 快速开始
 
