@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.bak/
+data/dom_mastery.json
+data/state.json
+data/*.log
+data/results/
+nohup.out
