@@ -1,0 +1,13 @@
+# 仓库描述（复制到 GitHub/Gitee 的 Description 框）
+
+## 推荐（中文，一句话，约 40 字）
+通过 CDP 驱动已登录的 Edge，把知到/智慧树「知识学习」每个知识点的掌握率自动刷到 100%。
+
+## 备选 A（强调可复用，约 55 字）
+知到（智慧树）知识点掌握率自动刷满工具：CDP 驱动真实浏览器，答题→提交→抓解析入题库→重复直到 100%。
+
+## 备选 B（英文，GitHub 上更通用，139 字符）
+Drive a logged-in Edge over CDP to grind Zhihuishu knowledge-point mastery to 100%: open quiz, answer from a learned bank, harvest the key, repeat.
+
+## Topics（标签，GitHub 用）
+zhihuishu, wisdomtree, cdp, chrome-devtools-protocol, automation, python, education-tooling
